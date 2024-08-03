@@ -8,34 +8,34 @@ main index / starting page is "FSD_Landing-main"
 ### Folder descriptions 
 * FSD landing page (web)
   
-bash
+```bash
   FSD_landing-main
-
+```
 * script for making predictions (api)
   
-bash
+```bash
   fsd-v2-main
-
+```
 * Form for user input (web)
   
-bash
+```bash
   form-fsd-main
-
+```
 * API doc (web)
   
-bash
+```bash
   api_page-main
-
+```
 * Prediction Results (web)
   
-bash
+```bash
   results-main
-
+```
   * Jupyter File for model creation (web)
   
-bash
+```bash
   Model_creation
-
+```
 
 
 ## Run Locally
