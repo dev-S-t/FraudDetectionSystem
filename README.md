@@ -6,7 +6,7 @@ main index / starting page is "FSD_Landing-main"
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
   <div style="flex: 1; text-align: center;">
-    <img src="Home (2).png" width="50%" title="UI" alt="UI">
+    <img src="Home (2).png" width="20%" title="UI" alt="UI">
   </div>
   <div style="flex: 1;">
     <h3>Folder descriptions</h3>
