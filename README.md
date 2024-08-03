@@ -5,7 +5,7 @@ A complete platform for fraud detection solutions
 
 main index / starting page is "FSD_Landing-main"
 
-![UI](https://github.com/dev-S-t/FraudDetectionSystem/blob/main/Home%20(1).png?raw=true)
+![What is this](Home (2).png)
 
 ### Folder descriptions 
 * FSD landing page (web)
