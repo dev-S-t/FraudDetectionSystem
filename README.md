@@ -1,4 +1,5 @@
 # FDS
+(https://dev-s-t.github.io/FSD_landing/)
 <img align="right" src="Home (2).png" width="40%" title="UI" alt="UI" />
 A complete platform for fraud detection solutions 
 
