@@ -4,47 +4,37 @@ A complete platform for fraud detection solutions
 
 main index / starting page is "FSD_Landing-main"
 <img align="right" src="Home (2).png" width="20%" title="UI" alt="UI" />
-  <div style="flex: 1;background-color: white ; width="20%"">
-    <h3>Folder descriptions</h3>
-    <p><strong>FSD landing page (web)</strong></p>
-    <pre>
-    ```bash
-    FSD_landing-main
-    ```
-    </pre>
-    <p><strong>script for making predictions (api)</strong></p>
-    <pre>
-    ```bash
-    fsd-v2-main
-    ```
-    </pre>
-    <p><strong>Form for user input (web)</strong></p>
-    <pre>
-    ```bash
-    form-fsd-main
-    ```
-    </pre>
-    <p><strong>API doc (web)</strong></p>
-    <pre>
-    ```bash
-    api_page-main
-    ```
-    </pre>
-    <p><strong>Prediction Results (web)</strong></p>
-    <pre>
-    ```bash
-    results-main
-    ```
-    </pre>
-    <p><strong>Jupyter File for model creation (web)</strong></p>
-    <pre>
-    ```bash
-    Model_creation
-    ```
-    </pre>
-  </div>
+  
+### Folder descriptions 
+* FSD landing page (web)
+  
+bash
+  FSD_landing-main
 
-</div>
+* script for making predictions (api)
+  
+bash
+  fsd-v2-main
+
+* Form for user input (web)
+  
+bash
+  form-fsd-main
+
+* API doc (web)
+  
+bash
+  api_page-main
+
+* Prediction Results (web)
+  
+bash
+  results-main
+
+  * Jupyter File for model creation (web)
+  
+bash
+  Model_creation
 
 
 
