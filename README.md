@@ -1,9 +1,9 @@
 # FDS
-
+<img align="right" src="Home (2).png" width="40%" title="UI" alt="UI" />
 A complete platform for fraud detection solutions 
 
 main index / starting page is "FSD_Landing-main"
-<img align="right" src="Home (2).png" width="40%" title="UI" alt="UI" />
+
   
 ### Folder descriptions 
 * FSD landing page (web)
