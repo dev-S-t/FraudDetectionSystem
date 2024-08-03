@@ -5,9 +5,9 @@ A complete platform for fraud detection solutions
 
 main index / starting page is "FSD_Landing-main"
 
-![screenshot](screenshot.png)
-![UI](Home (2).png)
-
+<p align="center">
+  <img src="Home (2).png" width="350" title="UI" alt = "UI">
+</p>
 ### Folder descriptions 
 * FSD landing page (web)
   ```bash
