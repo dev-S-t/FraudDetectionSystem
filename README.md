@@ -4,11 +4,11 @@ A complete platform for fraud detection solutions
 
 main index / starting page is "FSD_Landing-main"
 
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <div style="flex: 1; text-align: center;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; background-color: lightblue;">
+  <div style="flex: 1; text-align: center;background-color:green;">
     <img src="Home (2).png" width="20%" title="UI" alt="UI">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1;background-color: white ; width="20%"">
     <h3>Folder descriptions</h3>
     <p><strong>FSD landing page (web)</strong></p>
     <pre>
