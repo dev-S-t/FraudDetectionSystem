@@ -1,11 +1,11 @@
 # FDS
 
-A complete platform for fraud detection solutions
+A complete platform for fraud detection solutions 
 
 main index / starting page is "FSD_Landing-main"
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 70%;">
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  <div style="flex: 3;">
     <h3>Folder descriptions</h3>
     <p><strong>FSD landing page (web)</strong></p>
     <pre>
@@ -44,10 +44,11 @@ main index / starting page is "FSD_Landing-main"
     ```
     </pre>
   </div>
-  <div style="width: 25%; text-align: center;">
+  <div style="flex: 1; text-align: center;">
     <img src="Home (2).png" width="350" title="UI" alt="UI">
   </div>
 </div>
+
 
 
 ## Run Locally
